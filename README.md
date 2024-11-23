@@ -48,3 +48,16 @@ MAC Address: 95:5c:8e:32:58:f9
 IP Address: 192.168.1.216
 Hostname: DESKTOP-GXMYNO2
 User Account: steve.smith
+
+```sh 
+├── scripts/
+│   ├── victim-details.zeek
+│   ├── file-ioc.zeek
+│   ├── manufacturing-detect.zeek
+│   └── beacon-detect.zeek
+├── docs/
+│   └── incident-report.md
+├── samples/
+│   └── redacted-traffic.pcap
+└── README.md
+

@@ -49,7 +49,8 @@ IP Address: 192.168.1.216
 Hostname: DESKTOP-GXMYNO2
 User Account: steve.smith
 
-```sh 
+```
+```sh
 ├── scripts/
 │   ├── victim-details.zeek
 │   ├── file-ioc.zeek
@@ -60,4 +61,4 @@ User Account: steve.smith
 ├── samples/
 │   └── redacted-traffic.pcap
 └── README.md
-
+```
